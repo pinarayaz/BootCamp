@@ -1,1 +1,3 @@
 [![Build Status](https://travis-ci.org/pinarayaz/BootCamp.svg?branch=master)](https://travis-ci.org/pinarayaz/BootCamp)
+<a href="https://codeclimate.com/github/pinarayaz/BootCamp/maintainability"><img src="https://api.codeclimate.com/v1/badges/69d773d1efa6486f8b99/maintainability" /></a>
+<a href="https://codeclimate.com/github/pinarayaz/BootCamp/test_coverage"><img src="https://api.codeclimate.com/v1/badges/69d773d1efa6486f8b99/test_coverage" /></a>
