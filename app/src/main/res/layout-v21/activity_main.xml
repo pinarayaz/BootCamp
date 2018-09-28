@@ -12,26 +12,26 @@
     tools:layout_editor_absoluteY="25dp">
 
     <EditText
-        android:id="@+id/editText2"
+        android:id="@+id/mainName"
         android:layout_width="wrap_content"
         android:layout_height="45dp"
-        android:layout_marginBottom="8dp"
         android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
         android:ems="10"
         android:inputType="textPersonName"
         android:text="@string/enter_your_name"
         android:textAlignment="viewStart"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="@+id/button2"
+        app:layout_constraintEnd_toEndOf="@+id/mainGoButton"
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintStart_toStartOf="@+id/button2"
+        app:layout_constraintStart_toStartOf="@+id/mainGoButton"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.267" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/mainGoButton"
         android:layout_width="88dp"
         android:layout_height="48dp"
         android:layout_marginBottom="8dp"
